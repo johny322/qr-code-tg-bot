@@ -1,0 +1,9 @@
+Pillow==9.0.1
+pyzbar==0.1.9
+opencv-python==4.5.5.62
+aiogram<3.0
+environs~=8.0.0
+asyncio==3.4.3
+SQLAlchemy==1.4.31
+pandas
+openpyxl
